@@ -1,0 +1,53 @@
+.navbar {
+  background-color: #6495ed;
+  height: 80px;
+}
+
+.sidebar {
+  background-color: #d3d3d3;
+  width: 450px;
+  height: 600px;
+  position: relative;
+  top: 15px;
+}
+
+.section {
+  background-color: #4545e2;
+  width: 945px;
+  height: 600px;
+  position: relative;
+  bottom: 585px;
+  left: 470px;
+}
+
+.cuadrado1 {
+  background-color: #75d6d6;
+  width: 915px;
+  height: 260px;
+  position: absolute;
+  top: 30px;
+  left: 15px;
+}
+
+.cuadrado2 {
+  background-color: #75d6d6;
+  width: 915px;
+  height: 260px;
+  position: absolute;
+  top: 310px;
+  left: 15px;
+}
+
+.article {
+  background-color: #a52a2a;
+  height: 400px;
+  position: relative;
+  bottom: 570px;
+}
+
+.footer{
+  background-color: #6495ed;
+  position: relative;
+  height: 80px;
+  bottom: 560px;
+}
